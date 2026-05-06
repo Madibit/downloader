@@ -93,6 +93,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [15bdca93-bf12-4ef3-a93f-e7dddc562d53](https://github.com/Madibit/downloader/tree/main/downloads/15bdca93-bf12-4ef3-a93f-e7dddc562d53)
@@ -109,8 +111,10 @@ a
 
 7. [tele-mirror-win-x64](https://github.com/Madibit/downloader/tree/main/downloads/tele-mirror-win-x64)
 
-8. [thefeed-server-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/thefeed-server-windows-amd64)
+8. [thefeed-client-v0.16.2-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/thefeed-client-v0.16.2-windows-amd64)
 
-9. [zyrln-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/zyrln-windows-amd64)
+9. [thefeed-server-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/thefeed-server-windows-amd64)
+
+10. [zyrln-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---

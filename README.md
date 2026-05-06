@@ -81,6 +81,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [archive_20260504_212917](https://github.com/Madibit/downloader/tree/main/downloads/archive_20260504_212917)
@@ -88,5 +90,7 @@ a
 2. [archive_20260506_090259](https://github.com/Madibit/downloader/tree/main/downloads/archive_20260506_090259)
 
 3. [mhrv-rs-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+
+4. [zyrln-windows-amd64](https://github.com/Madibit/downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---

@@ -121,10 +121,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [927008](https://github.com/Madibit/downloader/tree/main/downloads/927008)
 
 2. [archive_20260513_185452](https://github.com/Madibit/downloader/tree/main/downloads/archive_20260513_185452)
+
+3. [xnbcli-windows-x64](https://github.com/Madibit/downloader/tree/main/downloads/xnbcli-windows-x64)
 
 ---
